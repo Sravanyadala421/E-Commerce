@@ -422,6 +422,7 @@ th:last-child {
     text-align: center;
     padding: 20px 0;
     margin: auto;
+    border-radius: 5px;
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
