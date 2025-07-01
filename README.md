@@ -1,4 +1,4 @@
-# eCommerce Website
+# E-Commerce Website
 
 ## Overview
 This is a simple eCommerce website built using HTML and CSS. The website provides a clean and responsive design for showcasing and selling products online.
